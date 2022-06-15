@@ -8,3 +8,4 @@ The goal of this repository is to improve the existing PINN.
 - cuDNN 8.1.0
 - tensorflow 1.14.0
 - numpy 1.16.5 (After removing the existing numpy, install numpy 1.16.5)
+- Latex 0.7.0
